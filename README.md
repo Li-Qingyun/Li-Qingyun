@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Li-Qingyun&hide=stars&count_private=true&show_icons=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Li-Qingyun&count_private=true&show_icons=true" />
 
 - 👋 Hi, I’m Qingyun Li (李青云).
 - 👀 I’m interested in Remote Sensing Image Processing and Deep Learning.
