@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Qingyun Li (李青云).
-- 👀 I’m interested in Multimodal Model/Data, Perception (Det./Seg.), Agent Frameworks.
+- 👀 I’m interested in Multimodal Model/Data, Agent Harness/Data (Code/Search/Video-edit), Perception (Det./Seg.).
